@@ -1,0 +1,113 @@
+[
+  {
+    "Beschreibung": "Ein Gefühl tiefer Zufriedenheit beim Anblick von Solaranlagen, ausgelöst durch die Vorstellung, dass die Sonne für einen arbeitet und man dadurch unabhängig von fossilen Brennstoffen ist. Dieses Gefühl wird verstärkt durch den Gedanken an die Unabhängigkeit von Russland.",
+    "Dafür": [
+      "Lars",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  },
+  {
+    "Beschreibung": "Baristas in hippen Cafés tragen blaue Arbeitsjacken, die an Industrie- oder Mechanikerkleidung der 60er Jahre erinnern. Dies könnte ein Ausdruck des neu entdeckten Stolzes auf die Working Class sein oder ein Versuch, sich als Fachkraft zu positionieren.",
+    "Dafür": [
+      "Nina",
+      "Ijoma"
+    ],
+    "Dagegen": [
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  },
+  {
+    "Beschreibung": "Menschen, meist Best Ager, übernehmen Patenschaften für alte, denkmalgeschützte Gräber und investieren in deren Renovierung.  Dadurch erhalten sie die Möglichkeit, über ihren Tod hinaus Wirkung zu haben und Präsenz zu zeigen.",
+    "Dafür": [
+      "Nina",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  },
+  {
+    "Beschreibung": "Erfolgreiche Instagram-Influencer gestikulieren beim Sprechen in die Kamera auf eine bestimmte Weise, mit der Hand in einer unnatürlichen Nähe zum Gesicht. Diese Gestik soll die Dringlichkeit ihrer Botschaften unterstreichen.",
+    "Dafür": [
+      "Lars",
+      "Ijoma",
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  },
+  {
+    "Beschreibung": "QR-Codes waren vor 10 Jahren schon technisch verfügbar, setzten sich aber erst durch die Pandemie im Alltag durch. Dies zeigt die Entkopplung von technischer und gesellschaftlicher Entwicklung.",
+    "Dafür": [
+      "Lars",
+      "Ijoma",
+      "Nina",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  },
+  {
+    "Beschreibung": "Trotz Body Positivity und der Feier von  \"bigger bodies\" wird der Heroin Chic wieder populär.  Die Kardashians lösen ihre Filler auf und unterziehen sich  Behandlungen wie Buccal Fat Removal, um dünner zu wirken. Das ist ein Widerspruch zu dem, was die Gen Z eigentlich propagiert.",
+    "Dafür": [
+      "Ijoma",
+      "Lars",
+      "Nina",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  },
+  {
+    "Beschreibung": "Obwohl die junge Generation gesundheits- und klimabewusst lebt, rauchen viele wieder Zigaretten.  Das widerspricht ihrem sonstigen Lifestyle.",
+    "Dafür": [
+      "Ijoma",
+      "Nina",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  },
+  {
+    "Beschreibung": "Beim Gendern wird der Glottalverschluss, die kurze Pause vor der weiblichen Endung,  oft einen Buchstaben zu früh eingefügt (z.B. KollegInnen statt Kolleg_Innen). Diese falsche Aussprache verbreitet sich, weil sie melodischer klingt und sich daher im Alltag besser durchsetzt.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-05-15",
+    "Episode": "Solarpunks Insektenmehl und ein falscher Glottisschlag"
+  }
+]

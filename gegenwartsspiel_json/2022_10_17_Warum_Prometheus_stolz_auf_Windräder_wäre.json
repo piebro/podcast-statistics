@@ -1,0 +1,46 @@
+[
+  {
+    "Beschreibung": "Lars beobachtet vermehrt chinesische Autos der Marke Lynk & Co. auf deutschen Straßen. Diese Elektro-SUVs werden vor allem über digitale Vertriebskanäle an junge Menschen vermarktet.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2022-10-17",
+    "Episode": "Warum Prometheus stolz auf Windräder wäre"
+  },
+  {
+    "Beschreibung": "Viele deutsche Schauspieler schneiden sich eine kleine Haarsträhne ab, um Solidarität mit den protestierenden Frauen im Iran zu zeigen.  Dies soll ein Zeichen gegen die Unterdrückung von Frauen im Iran sein.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2022-10-17",
+    "Episode": "Warum Prometheus stolz auf Windräder wäre"
+  },
+  {
+    "Beschreibung": "Lars beobachtet, dass seit etwa fünf Jahren politische Phänomene, vor allem im Kontext von Rechtspopulismus, mit der Begrifflichkeit der Kränkung analysiert werden. Er sieht dies als ein neues Phänomen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2022-10-17",
+    "Episode": "Warum Prometheus stolz auf Windräder wäre"
+  },
+  {
+    "Beschreibung": "Auf Twitter und in anderen digitalen Diskursen wird die Formulierung \"Wenn\" (oder \"When\") gefolgt von einem Substantiv verwendet, um Begeisterung oder Zustimmung auszudrücken, oft in Bezug auf Popkultur.  Dies sei ein bewusst ungrammatischer Sprachgebrauch.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2022-10-17",
+    "Episode": "Warum Prometheus stolz auf Windräder wäre"
+  }
+]

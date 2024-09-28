@@ -1,0 +1,46 @@
+[
+  {
+    "Beschreibung": "Im Kontext von Personalmangel und zunehmender Automatisierung entwickelt sich ein schlechtes Gewissen, wenn man \"klassische\" Kassen mit Personal benutzt, statt selbst zu scannen.  Statt Automatisierung als Arbeitsplatzabbau zu kritisieren, wird sie als notwendig und effizient wahrgenommen, um Personal für andere Aufgaben freizusetzen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-01-09",
+    "Episode": "Macht Vollzeit unser Leben kaputt"
+  },
+  {
+    "Beschreibung": "Im Kontext der Energiekrise und des Klimawandels entstehen neue soziale Normen und Unsicherheiten rund ums Heizen.  Es entwickelt sich ein Bewusstsein dafür, wie man heizt,  wann man heizt, und wie man mit Heizfragen bei Gästen umgeht.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-01-09",
+    "Episode": "Macht Vollzeit unser Leben kaputt"
+  },
+  {
+    "Beschreibung": "Die Metapher der Glaszwiebel aus dem Film \"Glass Onion\" beschreibt die Gegenwart als scheinbar komplex, aber in Wirklichkeit durchsichtig und banal. Diese Durchsichtigkeit bezieht sich auf politische und ökonomische Systeme und Entwicklungen, die so tun als wären sie komplex, sind aber im Kern ganz simpel.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-01-09",
+    "Episode": "Macht Vollzeit unser Leben kaputt"
+  },
+  {
+    "Beschreibung": "Konversationen auf WhatsApp oder Instagram werden durch Liken der letzten Nachricht des Gesprächspartners oder durch ein Emoji beendet. Dies signalisiert, die Nachricht gelesen zu haben, ohne inhaltlich antworten zu wollen.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-01-09",
+    "Episode": "Macht Vollzeit unser Leben kaputt"
+  }
+]

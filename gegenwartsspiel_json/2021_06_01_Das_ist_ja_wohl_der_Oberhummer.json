@@ -1,0 +1,72 @@
+[
+  {
+    "Beschreibung": "Der Begriff \"Killer-App\" wird im Kontext neuer Technologien, Forschungsergebnisse oder Patente verwendet und bezeichnet die eine Anwendung, die alle anderen vom Markt verdrängt und sich durchsetzt.  Es impliziert eine aggressive Marktstrategie und den Fokus auf eine singuläre, alles dominierende Anwendung.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-06-01",
+    "Episode": "Das ist ja wohl der Oberhummer"
+  },
+  {
+    "Beschreibung": "Im Kontext von Corona-Apps wie der Luca-App beschreibt Weisbrod das Phänomen, sich nach dem Besuch von Geschäften nicht mehr von der App abzumelden. Dies wird auf die Gewohnheit zurückgeführt, sich auch im echten Leben, wie z.B. mit Bierdeckeln in ländlichen Cafés, nicht abzumelden.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-06-01",
+    "Episode": "Das ist ja wohl der Oberhummer"
+  },
+  {
+    "Beschreibung": "Die Zunahme von Bringdiensten, die Supermarktprodukte und Lebensmittel innerhalb kürzester Zeit liefern (z.B. Gorillas). Die Frage ist, wie weit diese Entwicklung noch gesteigert wird und ob die Lieferzeiten immer kürzer werden.",
+    "Dafür": [
+      "Lars",
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-06-01",
+    "Episode": "Das ist ja wohl der Oberhummer"
+  },
+  {
+    "Beschreibung": "Die Verwendung von Venezuela als abschreckendes Beispiel für die Folgen von Verstaatlichungen und sozialistischer Politik. Mangold beobachtet, dass der Name Venezuela in den letzten Monaten vermehrt als Argument gegen solche Politiken verwendet wird.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-06-01",
+    "Episode": "Das ist ja wohl der Oberhummer"
+  },
+  {
+    "Beschreibung": "Der Begriff \"BRD Noir\" beschreibt eine Ästhetik und Stimmung, die an die alte Bundesrepublik erinnert, aber auf eine bedrückende, düstere Weise. Der Begriff wird in sozialen Medien und im intellektuellen Diskurs verwendet.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-06-01",
+    "Episode": "Das ist ja wohl der Oberhummer"
+  },
+  {
+    "Beschreibung": "Die Praxis, sich Notizen zu machen, während man lange Sprachnachrichten von Freunden oder Bekannten abhört. Dies wird als Folge von Corona und der damit verbundenen Intensivierung von Sprachnachrichten-Freundschaften gesehen.",
+    "Dafür": [
+      "Ijoma",
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-06-01",
+    "Episode": "Das ist ja wohl der Oberhummer"
+  }
+]

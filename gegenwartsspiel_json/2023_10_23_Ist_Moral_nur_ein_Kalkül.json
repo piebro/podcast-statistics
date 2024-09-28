@@ -1,0 +1,44 @@
+[
+  {
+    "Beschreibung": "In Cafés sind künstliche Blumen im Trend, die nicht mehr versuchen, echten Blumen zu ähneln. Sie sind Schmuck sui generis, der die Künstlichkeit zelebriert und aus Stoffen wie Sisal gefertigt wird.",
+    "Dafür": ["Lars"],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2023-10-23",
+    "Episode": "Ist Moral nur ein Kalkül"
+  },
+  {
+    "Beschreibung": "Es gibt zwei neue Fahrradhelm-Trends: faltbare Helme aus Kunststoff und Helme im Retro-Look, die an Baseball- oder Mofa-Helme erinnern. Beide versuchen, das Problem unästhetischer Fahrradhelme zu lösen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-10-23",
+    "Episode": "Ist Moral nur ein Kalkül"
+  },
+  {
+    "Beschreibung": "Experten im Fernsehen sagen nach einer Frage oft \"Na ja\", bevor sie antworten. Dies soll Nachdenklichkeit und Differenziertheit ausdrücken, ohne oberlehrerhaft zu wirken.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-10-23",
+    "Episode": "Ist Moral nur ein Kalkül"
+  },
+  {
+    "Beschreibung": "In E-Mails von professionellen Wissensarbeitern findet sich zunehmend der Zusatz \"No Response Needed\". Dies dient als Eskalationsstufe im Kampf gegen überbordende E-Mail-Kommunikation.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-10-23",
+    "Episode": "Ist Moral nur ein Kalkül"
+  }
+]

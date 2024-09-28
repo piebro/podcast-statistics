@@ -1,0 +1,49 @@
+[
+  {
+    "Beschreibung": "Eine ambivalente Haltung gegenüber dem neuen Buch von Benjamin von Stuckrad-Barre. Man will es einerseits lesen, andererseits sträubt man sich dagegen aufgrund der massiven PR-Kampagne und des Gefühls, dem Marketing-Hype zu erliegen. Man wartet darauf, dass andere es lesen und einem die wichtigsten Punkte erzählen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-05-01",
+    "Episode": "Gender Race Klasse  und wo bleiben die Ossis"
+  },
+  {
+    "Beschreibung": "Die übermäßige Verwendung der Formulierung \"per jetzt\" bzw. \"per heute\" in alltäglichen Aussagen.  Ijoma sieht darin den Versuch, Aussagen mit einem zeitlichen Index zu versehen, um sich die Möglichkeit offenzuhalten, die Meinung später zu ändern.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2023-05-01",
+    "Episode": "Gender Race Klasse  und wo bleiben die Ossis"
+  },
+  {
+    "Beschreibung": "Erwachsene und Kinder sprechen immer höflicher mit Sprachassistenten wie Alexa und geben ihnen Rückmeldungen.  Lena beobachtet dieses Verhalten bei ihren Kindern und sich selbst, auch im Kontrast zur eher unhöflichen Kommunikation der Podcaster mit Siri.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-05-01",
+    "Episode": "Gender Race Klasse  und wo bleiben die Ossis"
+  },
+  {
+    "Beschreibung": "Am Ende der Yogastunde wird den Teilnehmern dafür gedankt, dass ihre Yoga-Praxis einen positiven Effekt über den eigenen Körper und den Raum hinaus auf die Welt hat. Julia sieht darin einen Trend, dass selbst alltägliche Handlungen mit einer globalen Bedeutung aufgeladen werden.",
+    "Dafür": [
+      "Nina",
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-05-01",
+    "Episode": "Gender Race Klasse  und wo bleiben die Ossis"
+  }
+]

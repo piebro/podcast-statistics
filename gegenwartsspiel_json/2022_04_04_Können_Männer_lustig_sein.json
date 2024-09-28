@@ -1,0 +1,48 @@
+[
+  {
+    "Beschreibung": "Ein neues, mattes Grau wird als Farbe für Autos, insbesondere Elektroautos, immer beliebter.  Dieses Grau unterscheidet sich vom silbergrauen Standardton früherer Autos.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2022-04-04",
+    "Episode": "Können Männer lustig sein"
+  },
+  {
+    "Beschreibung": "In Videokonferenzen (z.B. Zoom, Teams) bleiben oft die hochgehobenen virtuellen Hände von Teilnehmern stehen, obwohl diese nichts mehr sagen wollen. Dadurch entsteht Verwirrung bei der Moderation.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2022-04-04",
+    "Episode": "Können Männer lustig sein"
+  },
+  {
+    "Beschreibung": "Der Wirtschaftshistoriker Adam Tooze ist eine allgegenwärtige Figur in den Medien und wird als der Mann bezeichnet, der alles erklärt. Er gibt unzählige Interviews, schreibt Bücher und Newsletter und analysiert die Polykrise unserer Zeit.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2022-04-04",
+    "Episode": "Können Männer lustig sein"
+  },
+  {
+    "Beschreibung": "Produkte, besonders aus dem Lebensmittelbereich,  erhalten Namen, die an englische Wörter erinnern, aber bewusst falsch geschrieben sind (z.B. \"pyur\" statt \"pure\", \"blu\" statt \"blue\").",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2022-04-04",
+    "Episode": "Können Männer lustig sein"
+  }
+]

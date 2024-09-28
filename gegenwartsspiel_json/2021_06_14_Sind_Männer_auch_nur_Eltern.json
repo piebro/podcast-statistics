@@ -1,0 +1,68 @@
+[
+  {
+    "Beschreibung": "Spotify hat Usern anhand ihrer Daten eine Beschreibung bzw. Eigenbeschreibung erstellt, die ihre Einzigartigkeit widerspiegeln soll. Basierend auf Hörgewohnheiten wird den Usern vermittelt, was sie an ihrem Musikgeschmack besonders macht.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-06-14",
+    "Episode": "Sind Männer auch nur Eltern"
+  },
+  {
+    "Beschreibung": "Im Sommer 2021 fahren auffällig viele Menschen mit Fahrrädern durch die Gegend, auf denen laute Musik aus Bluetooth-Boxen oder Radios dröhnt. Früher war das eher ein Verhalten von Teenagern, jetzt scheinen es auch mehr Erwachsene zu tun.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-06-14",
+    "Episode": "Sind Männer auch nur Eltern"
+  },
+  {
+    "Beschreibung": "Ein Schönheits-OP-Trend, bei dem der Po vergrößert wird. Der Name stammt aus Brasilien und hat sich durch die sozialen Medien und Stars wie Kim Kardashian verbreitet.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-06-14",
+    "Episode": "Sind Männer auch nur Eltern"
+  },
+  {
+    "Beschreibung": "Insektenhotels sind im Trend und werden überall verkauft.  Man sieht die Kästen mit den kleinen Löchern überall, an Balkonen, in Gärten und sogar an Kitas.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-06-14",
+    "Episode": "Sind Männer auch nur Eltern"
+  },
+  {
+    "Beschreibung": "Hormonelle Verhütung ist immer mehr verpönt, insbesondere durch die Debatte um die AstraZeneca Impfung und das damit verbundene Thrombose-Risiko. Es gibt immer mehr Artikel, in denen sich Frauen dafür rechtfertigen müssen, die Pille noch zu nehmen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-06-14",
+    "Episode": "Sind Männer auch nur Eltern"
+  },
+  {
+    "Beschreibung": "Fliesen in der Form von Backsteinen, wie man sie aus der Pariser Metro kennt, werden als Fliesen für Küche und Bad immer beliebter.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-06-14",
+    "Episode": "Sind Männer auch nur Eltern"
+  }
+]

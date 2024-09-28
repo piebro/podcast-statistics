@@ -1,0 +1,57 @@
+[
+  {
+    "Beschreibung": "Am Strand sieht man neuerdings oft aufblasbare Plastik-Donuts, die so aussehen, als sei ein Stück abgebissen. Dies ist eine neue Variante der üblichen aufblasbaren Schwimmringe und Einhörner.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2022-09-05",
+    "Episode": "Erzähl mir nix"
+  },
+  {
+    "Beschreibung": "Nina beobachtet eine Häufung von Essays und Artikeln, die sich kritisch mit der Baby-Boomer-Generation auseinandersetzen.  Sie sieht dies als eine aktuelle Welle der Selbstkritik und Selbstreflexion dieser Generation.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2022-09-05",
+    "Episode": "Erzähl mir nix"
+  },
+  {
+    "Beschreibung": "In sozialen Medien wird die eigene Ansicht oft als selbstverständlich und natürlich dargestellt, ohne den Kontext oder andere Perspektiven zu berücksichtigen. Zwei typische Formulierungen dafür sind \"Wie lost kann man sein, dass...\" oder die Beschreibung der gegnerischen Position gefolgt von \"Das war's. Das war der Tweet.\"",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2022-09-05",
+    "Episode": "Erzähl mir nix"
+  },
+  {
+    "Beschreibung": "Der Säbelzahntiger wird häufig als Metapher verwendet, um zu erklären, warum Menschen in der modernen Welt gestresst sind.  Dabei wird argumentiert, dass unser Körper noch immer auf die Bedrohung durch den Säbelzahntiger reagiert, obwohl diese längst ausgestorben ist.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2022-09-05",
+    "Episode": "Erzähl mir nix"
+  },
+  {
+    "Beschreibung": "Doxing beschreibt die Praxis, online Informationen über eine Person zu sammeln und zu veröffentlichen, um sie zu identifizieren oder bloßzustellen. Dies ist eine neue Praxis, die durch die zunehmende Digitalisierung ermöglicht wird.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2022-09-05",
+    "Episode": "Erzähl mir nix"
+  }
+]

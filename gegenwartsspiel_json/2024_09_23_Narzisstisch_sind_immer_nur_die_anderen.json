@@ -1,0 +1,48 @@
+[
+  {
+    "Beschreibung": "Beim Bezahlen mit Karte im Café hält der Barista das Gerät so, dass man die Summe nicht sieht.  Der Satz wird verwendet, um die Summe vor dem Bezahlen zu überprüfen und so Missverständnisse oder Betrug zu vermeiden.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2024-09-23",
+    "Episode": "Narzisstisch sind immer nur die anderen"
+  },
+  {
+    "Beschreibung": "Eine teure, gefüllte Schokolade, die ursprünglich aus Dubai kommt.  Sie wird in den sozialen Medien, insbesondere TikTok, als Trend gefeiert und oft selbst nachgemacht. Die Dubai-Schokolade ist häufig ausverkauft.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2024-09-23",
+    "Episode": "Narzisstisch sind immer nur die anderen"
+  },
+  {
+    "Beschreibung": "Der Satz \"Ich bin fein damit\" wird inflationär verwendet, oft von Politikern.  Er ist ein Beispiel für einen Anglizismus, der mit einem deutschen Wort umgesetzt wird und in eine englisch-inspirierte grammatikalische Struktur eingebettet ist.",
+    "Dafür": [
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2024-09-23",
+    "Episode": "Narzisstisch sind immer nur die anderen"
+  },
+  {
+    "Beschreibung": "Beim Joggen getragene Westen, in denen entweder Gewichte oder Wasser oder Energieriegel transportiert werden. Die Westen sind so verbreitet, dass man sich ohne sie beim Joggen underdressed vorkommt.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2024-09-23",
+    "Episode": "Narzisstisch sind immer nur die anderen"
+  }
+]

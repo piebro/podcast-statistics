@@ -1,0 +1,46 @@
+[
+  {
+    "Beschreibung": "Das Wort \"trans\" wird sprachpolitisch als Adjektiv verwendet und nicht dekliniert, ähnlich wie \"super\".  Dies soll betonen, dass ein Transmann ein Mann ist und eine Transfrau eine Frau, ohne \"trans\" übermäßig zu betonen. Die grammatikalische Korrektheit dieser Verwendung im Deutschen ist fraglich.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-08-07",
+    "Episode": "Wer kann sich heute noch eine Midlife-Crisis leisten"
+  },
+  {
+    "Beschreibung": "Millennials empfinden einen gewissen Neid auf die Gen Z, die sich den Stress des Augenbrauenzupfens und -nachmalens nicht mehr macht, da der Trend zum Natürlichen und Ungeschminkten geht. Dieser Neid ist Ausdruck eines intergenerationellen Konflikts.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-08-07",
+    "Episode": "Wer kann sich heute noch eine Midlife-Crisis leisten"
+  },
+  {
+    "Beschreibung": "In TikTok-Sketches spielen Nutzer*innen mit minimalen Mitteln (z.B. einem Hoodie über dem Kopf) alle Rollen selbst, oft im Dialog mit einer anderen Version von sich.  Das zeigt die Einsamkeit der Social-Media-Ära und die Sehnsucht, jemand anderes zu sein.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-08-07",
+    "Episode": "Wer kann sich heute noch eine Midlife-Crisis leisten"
+  },
+  {
+    "Beschreibung": "Eine Welle der Aufarbeitung der Popkultur der 90er Jahre findet statt.  Beispiele sind die kritische Hinterfragung von Britney Spears Musikvideos,  Dokumentationen über die Spice Girls und Tic Tac Toe oder die Analyse von  rassistischen Textzeilen bei  Coco Jamboo.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-08-07",
+    "Episode": "Wer kann sich heute noch eine Midlife-Crisis leisten"
+  }
+]

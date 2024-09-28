@@ -1,0 +1,27 @@
+**Phänomen 1: Die "Reeliesierung" von Social Media**
+* **Vorgeschlagen von:** Lars
+* **Beschreibung:**  Die Übernahme von TikTok-Features wie Kurzvideos (Reels) durch etablierte Social-Media-Plattformen wie Instagram, um mit der Konkurrenz mitzuhalten. Dies führt zu absurden Konsequenzen, wie z.B. Screenshots von Twitter-Witzen, die als Reels mit animierten Emojis "aufgepeppt" werden, um den Algorithmus auszutricksen.
+* **Dafür:** Nina
+* **Dagegen:** -
+* **Endergebnis:** Akzeptiert
+
+**Phänomen 2: Die Layla-Verlegenheit auf dem Oktoberfest**
+* **Vorgeschlagen von:** Franziska (über Nina)
+* **Beschreibung:** Die Diskussion um die Spielbarkeit des sexistischen Sommerhits "Layla" auf dem Oktoberfest führt zu unbeholfenen Tischgesprächen, in denen (meist männliche) Wiesnbesucher ihre Haltung zu dem Lied abklären, um nicht als Trampel dazustehen und/oder die Damen am Tisch zu verletzen.
+* **Dafür:** Lars
+* **Dagegen:** -
+* **Endergebnis:** Akzeptiert
+
+**Phänomen 3: Der ON-Turnschuh als Seniorenschuh**
+* **Vorgeschlagen von:** Phillip (über Nina)
+* **Beschreibung:** Der ON-Turnschuh mit seiner speziellen Sohlentechnik wird als der ultimative Seniorenschuh beschrieben, der aber gleichzeitig von Menschen unterschiedlichen Alters und unterschiedlicher sozialer Schichten getragen wird.  Er ist der E-Bike für die Füße.
+* **Dafür:** Nina
+* **Dagegen:** Lars (weil er die Marke On schon in einer früheren Folge vorgeschlagen hatte, aber ohne den speziellen Kontext des Seniorenschuhs)
+* **Endergebnis:** Nicht akzeptiert
+
+**Phänomen 4: "Ohne Wenn und Aber... aber"**
+* **Vorgeschlagen von:** Lars (über Twitter/Crowd)
+* **Beschreibung:** Die Verwendung des Wortes "aber" direkt nach der Formulierung "ohne Wenn und Aber" in einer politischen Rede, was zu Kritik führte, weil es die vorherige Aussage relativiert. Lars sieht darin ein größeres Problem mit dem Wort "aber" im Allgemeinen, welches durch seine Verwendung im Kontext von rassistischen Aussagen an Bedeutung verloren hat.
+* **Dafür:** -
+* **Dagegen:** Nina (weil ihr der Fokus auf das einzelne Wort zu pedantisch und die Beobachtung zu wenig substanziell ist)
+* **Endergebnis:** Nicht akzeptiert

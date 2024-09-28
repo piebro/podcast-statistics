@@ -1,0 +1,37 @@
+[
+  {
+    "Beschreibung": "Mangold beobachtet, dass Tesla hauptsächlich nur in schwarz und weiß angeboten wird und vergleicht dies mit hochwertigen Restaurants, die ein reduziertes, aber qualitativ hochwertigeres Menü anbieten.  Er sieht darin ein Zeichen für einen neuen Trend zur Konsum-Deindividualisierung.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2024-07-29",
+    "Episode": "Ist Pop heute rechts"
+  },
+  {
+    "Beschreibung": "Weisbrod präsentiert eine Werbekampagne eines Kosmetikladens, die den Slogan \"Find your Body Ally\" verwendet. Er argumentiert, dass der Begriff \"Ally\", der aus dem identitätspolitischen Diskurs stammt, nun von der Werbeindustrie losgelöst vom ursprünglichen Kontext verwendet und somit zum Gegenwartsphänomen wird.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2024-07-29",
+    "Episode": "Ist Pop heute rechts"
+  },
+  {
+    "Beschreibung": "Diederichsen stellt fest, dass es im deutschsprachigen Raum kein Shampoo mehr für \"fettendes Haar\" gibt, der Begriff sei verschwunden, während in anderen Ländern, wie Spanien oder Italien, entsprechende Produkte weiterhin existieren und beworben werden.",
+    "Dafür": [
+      "Ijoma",
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2024-07-29",
+    "Episode": "Ist Pop heute rechts"
+  }
+]

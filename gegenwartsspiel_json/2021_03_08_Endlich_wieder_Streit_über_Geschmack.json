@@ -1,0 +1,57 @@
+[
+  {
+    "Beschreibung": "Produzenten von Rapsongs integrieren kurze Samples, meist mit ihrem Namen oder einer Catchphrase, am Anfang des Songs, um mehr Aufmerksamkeit zu erhalten. Das ist eine Art akustisches Markenzeichen.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-03-08",
+    "Episode": "Endlich wieder Streit über Geschmack"
+  },
+  {
+    "Beschreibung": "Ijoma beobachtet, dass er dieses Jahr besonders viele Anrufe zum Geburtstag bekommen hat. Er führt dies auf den Lockdown und die damit verbundene erhöhte Freizeit seiner Freunde zurück.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-03-08",
+    "Episode": "Endlich wieder Streit über Geschmack"
+  },
+  {
+    "Beschreibung": "Ein neuer Diskurs über Deutschland, der das Land als \"failed state\" darstellt, hat sich etabliert. Dies wird insbesondere mit dem \"Impfdesaster\" und dem Versagen Deutschlands in der Corona-Krise begründet.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-03-08",
+    "Episode": "Endlich wieder Streit über Geschmack"
+  },
+  {
+    "Beschreibung": "Ein philosophisches Problem, das die moralische Verantwortung gegenüber zukünftigen Generationen im Kontext des Klimawandels behandelt. Es argumentiert, dass unsere Handlungen die Identität zukünftiger Menschen verändern und damit ihr Existenzrecht beeinflussen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-03-08",
+    "Episode": "Endlich wieder Streit über Geschmack"
+  },
+  {
+    "Beschreibung": "Eine Debatte über den Unterschied zwischen Pizza und Pinza und ob die Pinza ein neues kulinarisches Phänomen oder schon länger bekannt ist, insbesondere außerhalb der Großstädte. Diese Debatte führte zu Diskussionen über Pizzaklassismus.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-03-08",
+    "Episode": "Endlich wieder Streit über Geschmack"
+  }
+]

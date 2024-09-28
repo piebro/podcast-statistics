@@ -1,0 +1,90 @@
+[
+  {
+    "Beschreibung": "Zoomer sind die Nachfolgegeneration der Generation Z und werden scherzhaft in Anlehnung an die Babyboomer als Zoomer bezeichnet. Das Wort kombiniert \"Boomer\" mit \"Zoom\", dem Videokonferenztool.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  },
+  {
+    "Beschreibung": "Kleider werden vermehrt zusammen mit einer farblich passenden Maske verkauft. Das Phänomen zeigt die Integration von Masken in den Alltag und die Mode.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  },
+  {
+    "Beschreibung": "Immer mehr leerstehende Ladenlokale werden von Immobilienmaklerbüros angemietet. Das verdeutlicht die Krise im Einzelhandel und gleichzeitig die (scheinbare) Unnachhaltigkeit des Immobilienmarktes.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  },
+  {
+    "Beschreibung": "Viele Geschäfte stehen leer und werden mit weißen Klebefolien zugeklebt, was die Krise des Einzelhandels verdeutlicht.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  },
+  {
+    "Beschreibung": "Menschen bleiben vor den Schaufenstern von Immobilienmaklerbüros stehen und schauen sich die Preise an.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  },
+  {
+    "Beschreibung": "Das Wort \"Dude\" wird zunehmend als Synonym für \"Typ\" verwendet und bezeichnet oft eine eher lächerliche oder skurrile Figur.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  },
+  {
+    "Beschreibung": "Der Sommer 2020 war geprägt von Partys auf Schlauchbooten, vor allem in Städten mit Kanalnetz wie Hamburg und Berlin, auch als Reaktion auf Corona-Einschränkungen.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  },
+  {
+    "Beschreibung": "Hafermilch in Flaschen (statt Tetra Pak) wird immer beliebter, auch durch den Oatly-Skandal und die zunehmende Kritik an Tetra Paks aus Umweltgründen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2020-09-14",
+    "Episode": "Arbeit nervt"
+  }
+]

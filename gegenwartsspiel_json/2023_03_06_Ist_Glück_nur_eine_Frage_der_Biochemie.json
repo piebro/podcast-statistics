@@ -1,0 +1,38 @@
+[
+  {
+    "Beschreibung": "Warnwesten werden nicht mehr nur aus Sicherheitsgründen getragen, sondern sind zu einem modischen Accessoire geworden. Sie sind in verschiedenen Neonfarben und mit Mustern erhältlich und werden auch von Menschen getragen, die früher keine Warnwesten getragen hätten.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-03-06",
+    "Episode": "Ist Glück nur eine Frage der Biochemie"
+  },
+  {
+    "Beschreibung": "Die Frage, ob Weiße schwarze Emojis oder GIFs verwenden dürfen, wird diskutiert.  Es geht um kulturelle Aneignung und die Frage nach der Authentizität von Emotionen.",
+    "Dafür": [
+      "Nina",
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-03-06",
+    "Episode": "Ist Glück nur eine Frage der Biochemie"
+  },
+  {
+    "Beschreibung": "In längeren Gesprächen, z.B. Zoom-Calls, wird zwar zu Beginn gegendert, danach aber immer weniger, bis ganz darauf verzichtet wird. Es wird so getan, als sei die Absicht, alle Geschlechter zu berücksichtigen, mit dem anfänglichen Gendern hinreichend bewiesen.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-03-06",
+    "Episode": "Ist Glück nur eine Frage der Biochemie"
+  }
+]

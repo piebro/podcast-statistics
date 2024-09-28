@@ -1,0 +1,55 @@
+[
+  {
+    "Beschreibung": "Daunenmäntel ohne Ärmel, die wie eine Weste oder Schürze aussehen, werden vermehrt getragen, besonders von Frauen in Eppendorf. Dies ist ein Update zu Lars' Vorschlag des regulären Daunenmantels aus dem Vorjahr.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-11-01",
+    "Episode": "Wie viel Körper darfs denn sein"
+  },
+  {
+    "Beschreibung": "Jacken aus Lammfell-Imitat, die wie Schaffell aussehen, sind aktuell in allen Geschäften und werden von vielen Menschen getragen, auch von Kindern. Der Stoff ist überall präsent.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-11-01",
+    "Episode": "Wie viel Körper darfs denn sein"
+  },
+  {
+    "Beschreibung": "Das Gefühl der Leere und Sehnsucht nach neuen Podcast-Folgen, wenn man alle Folgen seiner Lieblingspodcasts gehört hat und auf den Veröffentlichungstag der nächsten Folge warten muss. Dies wird durch den Rhythmus der Veröffentlichung und die Sehnsucht nach neuem Content verstärkt.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-11-01",
+    "Episode": "Wie viel Körper darfs denn sein"
+  },
+  {
+    "Beschreibung": "In den Science-Fiction-Werken \"Dune\" und \"Foundation\" tragen Menschen Körperschilde, die nur von langsam bewegten Objekten durchdrungen werden können. Lars sieht dies als Metapher für die zunehmende Sensibilisierung für Körper und Berührungen im feministischen Diskurs.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-11-01",
+    "Episode": "Wie viel Körper darfs denn sein"
+  },
+  {
+    "Beschreibung": "Die zunehmende Sichtbarmachung und Enttabuisierung der Menstruation in der Kunst und Popkultur, insbesondere auf Instagram. Es gibt Kunstprojekte mit Menstruationsblut, Hashtags wie #menstruationmatters, Podcasts zum Thema und einen Fokus auf Self-Love und Body Positivity.",
+    "Dafür": [],
+    "Dagegen": [],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2021-11-01",
+    "Episode": "Wie viel Körper darfs denn sein"
+  }
+]

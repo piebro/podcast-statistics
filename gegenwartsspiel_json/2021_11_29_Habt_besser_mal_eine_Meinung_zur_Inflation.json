@@ -1,0 +1,46 @@
+[
+  {
+    "Beschreibung": "Ein neuer Begriff auf Twitter, der Menschen bezeichnet, deren Meinungen als fragwürdig eingestuft werden. Der Begriff hat sich auf Twitter etabliert und wird verwendet, um Personen zu diskreditieren.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-11-29",
+    "Episode": "Habt besser mal eine Meinung zur Inflation"
+  },
+  {
+    "Beschreibung": "Die wiederkehrende Beschäftigung mit Sternzeichen, besonders semi-ironisch unter jungen Leuten in den sozialen Medien. Die Sternzeichen werden auf Englisch benannt und oft mit politischen Themen verknüpft.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-11-29",
+    "Episode": "Habt besser mal eine Meinung zur Inflation"
+  },
+  {
+    "Beschreibung": "Hashtags werden außerhalb des Internets, z.B. auf Werbeplakaten, verwendet, obwohl sie dort ihre eigentliche Funktion der Verlinkung verlieren. Sie sind zu rein ästhetischen Gestaltungselementen geworden.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-11-29",
+    "Episode": "Habt besser mal eine Meinung zur Inflation"
+  },
+  {
+    "Beschreibung": "Lange Tische in Restaurants, an denen alle Gäste zusammensitzen, oft auch mit Fremden. Es gibt nur diesen einen Tisch im Restaurant, und man reserviert nicht einen eigenen Tisch, sondern Plätze am Community Table.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-11-29",
+    "Episode": "Habt besser mal eine Meinung zur Inflation"
+  }
+]

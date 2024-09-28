@@ -1,0 +1,46 @@
+[
+  {
+    "Beschreibung": "Eine Handcreme, die gleichzeitig als Desinfektionsmittel fungiert, und für Nina ein Symbol der Resignation in der Pandemie ist, da die anfängliche Kreativität (modische Masken, Desinfektionsspray am Kinderwagen) einer Akzeptanz des Status quo gewichen ist.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2022-01-24",
+    "Episode": "Regretting motherhood hier unerfüllter Kinderwunsch da"
+  },
+  {
+    "Beschreibung": "Der Ketchupflascheneffekt beschreibt das Phänomen, dass erst nichts rauskommt und dann zu viel. Lars überträgt den Effekt auf die Inflation: Erst war die Inflation jahrelang niedriger als von der EZB gewünscht, jetzt ist sie plötzlich sehr hoch.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2022-01-24",
+    "Episode": "Regretting motherhood hier unerfüllter Kinderwunsch da"
+  },
+  {
+    "Beschreibung": "Valentins Beobachtung, dass der Veganuary, eine Aktion zum veganen Essen im Januar,  dazu führt, dass viele vegane Fertigprodukte gekauft werden, die aber oft ungesund sind (z.B. zu viel Salz). Dies wird als Beispiel für einen Convenience-Veganismus gesehen.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2022-01-24",
+    "Episode": "Regretting motherhood hier unerfüllter Kinderwunsch da"
+  },
+  {
+    "Beschreibung": "Lars beobachtet, dass das Lästern, das in den 90er und 00er Jahren noch ein positiv konnotiertes Thema und ein regelmäßiger Diskursgegenstand war (z.B. Artikel darüber, warum Lästern guttut), gesellschaftlich verschwunden zu sein scheint.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2022-01-24",
+    "Episode": "Regretting motherhood hier unerfüllter Kinderwunsch da"
+  }
+]

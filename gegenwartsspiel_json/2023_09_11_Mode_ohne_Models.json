@@ -1,0 +1,124 @@
+[
+  {
+    "Beschreibung": "Auf der Speisekarte eines Restaurants in der Uckermark wird Tatar vom Ökorind angeboten, das auf der Weide geschossen wurde. Dies soll eine Alternative zur Massentierhaltung darstellen und gleichzeitig den bewussten Fleischkonsum fördern. Die Rinder verbringen ihr Leben auf der Weide und werden ohne Transport und Stress geschlachtet.",
+    "Dafür": [
+      "Nina",
+      "Lars",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Der Begriff \"kritische Achtsamkeit\" beschreibt einen Versuch, Achtsamkeit nicht nur individuell, sondern auch gesellschaftskritisch zu betrachten. Es ist eine Reaktion auf das Achtsamkeits-Bashing und die Kritik, dass Achtsamkeit unpolitisch und egoistisch sei.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma",
+      "Lars",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Die Siesta als Anpassungsstrategie an den Klimawandel und als Teil einer veränderten Arbeitskultur wird diskutiert. Es geht um die Frage, ob die Siesta in heißeren Ländern etabliert und auch in Deutschland als neue Arbeitsform relevant werden könnte.",
+    "Dafür": [
+      "Ijoma",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Beim Onlineshopping kann man auswählen, ob Fotos nur das Produkt oder auch das Model zeigen sollen. Dies soll dem Wunsch nach differenzierten Körperbildern entsprechen und die Händler von der Verantwortung für die Darstellung bestimmter Körperbilder entlasten.",
+    "Dafür": [
+      "Lars",
+      "Ijoma",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Neubausiedlungen in Kärnten werden mit \"Blackout-safe\" Häusern beworben, die mit Tischherden ausgestattet sind.  Dieser Begriff, der früher eher im rechten Prepper-Kontext verwendet wurde, erlangt durch die Energiekrise und das Streben nach Autarkie neue Relevanz.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina",
+      "Lars",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Es wird zunehmend der Vorwurf erhoben, dass in immer mehr Bereichen eine Form von \"Washing\" stattfindet, also der Versuch, etwas anders darzustellen, als es ist.  Beispiele sind Greenwashing, Whitewashing, Pinkwashing usw., die alle darauf abzielen, ein bestimmtes Image zu erzeugen oder Kritik abzuwehren.",
+    "Dafür": [
+      "Nina",
+      "Ijoma",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Der Begriff \"NPC\" aus der Videospielwelt wird auf Menschen übertragen, die sich stereotyp verhalten und nicht selbst zu denken scheinen.  Es ist ein Meme auf TikTok und spiegelt die zunehmende Verbreitung von Simulationstheorien wider.",
+    "Dafür": [
+      "Ijoma",
+      "Nina"
+    ],
+    "Dagegen": [
+      "Lars",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Der Barbie-Film wird als einfacher Test verwendet, um die feministische Einstellung von Personen zu überprüfen. Wenn jemand den Film gut findet, gilt er als Feminist, wenn nicht, dann nicht.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [
+      "Ijoma",
+      "Nina",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  },
+  {
+    "Beschreibung": "Der Begriff \"High Potentials\" löst den Begriff \"High Performer\" ab und fokussiert auf das zukünftige Potential von Personen, insbesondere marginalisierten Gruppen,  und nicht auf deren aktuelle Leistung.",
+    "Dafür": [
+      "Nina",
+      "Lars",
+      "Zuhörer/Publikum/Gast"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2023-09-11",
+    "Episode": "Mode ohne Models"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "Beschreibung": "Durch die Corona-Pandemie haben Menschen eine neue Freiheit von ihrer Arbeit empfunden und ziehen sich vom Arbeitsmarkt zurück.  In den USA ist dies besonders stark ausgeprägt,  in Deutschland ist das Phänomen abgeschwächt, zeigt sich aber z.B. in der Gastronomie.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2022-06-13",
+    "Episode": "Warum der Oktopus kein Zentrum hat"
+  },
+  {
+    "Beschreibung": "An Häusern und Zäunen sieht man vermehrt kleine Kästchen mit einem Zahlenschloss, in denen der Schlüssel für die Tür aufbewahrt wird. Dies dient der kontaktlosen Schlüsselübergabe, vor allem für Airbnb.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2022-06-13",
+    "Episode": "Warum der Oktopus kein Zentrum hat"
+  },
+  {
+    "Beschreibung": "Menschen fotografieren sich selbst beim Selfie-Machen. Ein Beispiel ist eine Hochzeitsgesellschaft, die sich für ein Selfie positioniert, während der Hochzeitsfotograf die Szene festhält.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2022-06-13",
+    "Episode": "Warum der Oktopus kein Zentrum hat"
+  },
+  {
+    "Beschreibung": "Das Bündchen von T-Shirts wird beschriftet, oft mit dem Markennamen oder anderen Informationen. Ein Beispiel ist eine Klimaaktivistin, die ein T-Shirt mit einer Botschaft und der URL einer Webseite auf dem Bündchen trug.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2022-06-13",
+    "Episode": "Warum der Oktopus kein Zentrum hat"
+  }
+]

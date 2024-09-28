@@ -1,0 +1,81 @@
+[
+  {
+    "Beschreibung": "Ein Food-Trend, bei dem Focaccia-Brote mit Gemüse und Kräutern kunstvoll zu Blumenwiesen gestaltet und auf Social Media geteilt werden. Nina sieht darin das Lockdown-Backwerk 2021, eine Weiterentwicklung des Bananenbrot-Trends aus dem ersten Lockdown, der die Ohnmacht und Wut in gestalterische Selbstwirksamkeit kanalisiert.",
+    "Dafür": [
+      "Lars",
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-04-05",
+    "Episode": "Was bringt uns der Respekt wenn wir nichts verdienen"
+  },
+  {
+    "Beschreibung": "Ein gesellschaftlicher Zustand, in dem viele Menschen müde und wütend sind und keine Energie mehr für einfache Backwerke wie Bananenbrot haben.  Sie benötigen nun komplexere, kreative Aufgaben, um ihre Frustration zu verarbeiten.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars",
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2021-04-05",
+    "Episode": "Was bringt uns der Respekt wenn wir nichts verdienen"
+  },
+  {
+    "Beschreibung": "Menschen wandern nach Athen aus, weil die Lebenshaltungskosten dort niedriger sind als in Deutschland. Dies ähnelt der früheren Bewegung nach Berlin, wobei Athen als neues Zentrum für Kreative und Selbstständige gehandelt wird, die in der Corona-Zeit in Schwierigkeiten geraten sind.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-04-05",
+    "Episode": "Was bringt uns der Respekt wenn wir nichts verdienen"
+  },
+  {
+    "Beschreibung": "Die temporäre Außengastronomie auf Parkplätzen, die während der Pandemie in vielen deutschen Städten erlaubt wurde, wird auch nach Corona erhalten bleiben.  Diese Schanigärten ermöglichen mehr Außenplätze für Restaurants und schaffen autofreie Zonen im Sommer.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-04-05",
+    "Episode": "Was bringt uns der Respekt wenn wir nichts verdienen"
+  },
+  {
+    "Beschreibung": "Bei Online-Podiumsdiskussionen und Panelveranstaltungen bietet der mitlaufende Chat eine neue Machtquelle. Die Zuschauer können sich dort organisieren und abweichende Meinungen artikulieren, wodurch der Moderator gezwungen ist, auf die angestaute Wut im Chat einzugehen und die Kommunikationsdynamik verändert wird.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-04-05",
+    "Episode": "Was bringt uns der Respekt wenn wir nichts verdienen"
+  },
+  {
+    "Beschreibung": "Das Rauchen während der Seminare an Universitäten, das früher üblich war und dann verschwand, kehrt durch die Homeoffice-Situation und Online-Seminare zurück, da die Teilnehmer nun zu Hause in ihren eigenen Räumlichkeiten rauchen.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-04-05",
+    "Episode": "Was bringt uns der Respekt wenn wir nichts verdienen"
+  },
+  {
+    "Beschreibung": "Proteinbrezeln sind ein Beispiel für die Ausweitung des Fitnesstrends in den Mainstream.  Sie repräsentieren die lange Gegenwart eines gesellschaftlichen Diskurses über Muskelaufbau und Fitnessernährung.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-04-05",
+    "Episode": "Was bringt uns der Respekt wenn wir nichts verdienen"
+  }
+]

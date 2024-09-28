@@ -1,0 +1,68 @@
+[
+  {
+    "Beschreibung": "Der Tintenfisch ist zum neuen \"Modetier\" avanciert und wird als besonders intelligent wahrgenommen.  Dies führt zu Diskussionen darüber, ob man ihn noch essen sollte. Das Tier wird in Essays thematisiert und von Hollywood-Stars als Identifikationsfigur verwendet.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-01-11",
+    "Episode": "Wir weinen dem Verbrenner eine Träne nach"
+  },
+  {
+    "Beschreibung": "Die Toniebox ist ein smarter Lautsprecher für Kinder, der mit Figuren bedient wird.  Jede Figur repräsentiert ein bestimmtes Hörspiel oder Musikstück. Sie ermöglicht Kindern, selbstständig Medien zu konsumieren.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-01-11",
+    "Episode": "Wir weinen dem Verbrenner eine Träne nach"
+  },
+  {
+    "Beschreibung": "YouTuber, auch solche ohne bairischen/österreichischen Hintergrund, verwenden die Formulierung \"Schreibts was rein in die Kommentare\". Dies ist ein Beispiel für die Übernahme eines dialektalen Ausdrucks in die allgemeine Internetsprache (Soziolekt).",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-01-11",
+    "Episode": "Wir weinen dem Verbrenner eine Träne nach"
+  },
+  {
+    "Beschreibung": "Der englische Begriff \"Topping\" wird immer häufiger statt des deutschen Wortes \"Zutat\" verwendet, selbst wenn es sich nicht um eine Auflage handelt. Dies zeige den Einfluss der englischen Sprache.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Zuhörer/Publikum/Gast",
+    "Datum": "2021-01-11",
+    "Episode": "Wir weinen dem Verbrenner eine Träne nach"
+  },
+  {
+    "Beschreibung": "Das Wort \"Vakzine\" wird im allgemeinen Sprachgebrauch immer häufiger anstelle von \"Impfstoff\" verwendet.  Dies geschieht, obwohl \"Vakzine\" kein genuin englisches Wort ist, und zeige den Einfluss von Fachsprache und Anglizismen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2021-01-11",
+    "Episode": "Wir weinen dem Verbrenner eine Träne nach"
+  },
+  {
+    "Beschreibung": "Fußgänger und Radfahrer verwenden immer mehr Leuchtmittel, um im Straßenverkehr besser sichtbar zu sein.  Beispiele sind Grubenlampen bei Joggern und blinkende Warnzeichen an Fahrradhelmen.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2021-01-11",
+    "Episode": "Wir weinen dem Verbrenner eine Träne nach"
+  }
+]

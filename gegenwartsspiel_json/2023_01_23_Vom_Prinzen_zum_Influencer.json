@@ -1,0 +1,44 @@
+[
+  {
+    "Beschreibung": "Der Begriff \"Instagrammer\" ersetzt \"Tourist\" als Schimpfwort und beschreibt Menschen, die Orte nur besuchen, um Fotos für soziale Medien zu machen, ohne wirkliches Interesse an dem Ort selbst zu haben. Es geht um die Oberflächlichkeit und den Fokus auf Selbstdarstellung.",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2023-01-23",
+    "Episode": "Vom Prinzen zum Influencer"
+  },
+  {
+    "Beschreibung": "Die Dating-App Hinge wirbt dafür, die App zu löschen, sobald man seinen Partner gefunden hat.  Sie fokussiert sich auf tiefere Verbindungen statt oberflächliches Swipen und setzt auf authentische Kommunikation durch Sprachnachrichten.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-01-23",
+    "Episode": "Vom Prinzen zum Influencer"
+  },
+  {
+    "Beschreibung": "In der visuellen Welt (Bildschirme, Plakate, etc.) wird die Schrift zunehmend vom Bild überlagert, obwohl dies künstlich erzeugt ist (z.B. durch Bildbearbeitung).  Das Bild wird somit mächtiger und die Abstraktion der Schrift tritt zurück.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2023-01-23",
+    "Episode": "Vom Prinzen zum Influencer"
+  },
+  {
+    "Beschreibung": "Die Omnipräsenz von Cord-Jogginghosen in Geschäften und online. Es geht um die Frage, ob dies ein Ausdruck einer Vermischung von Klassen und Milieus in der Mode ist, oder ein Nachhall der Corona-Pandemie und des Homeoffice.",
+    "Dafür": [],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2023-01-23",
+    "Episode": "Vom Prinzen zum Influencer"
+  }
+]

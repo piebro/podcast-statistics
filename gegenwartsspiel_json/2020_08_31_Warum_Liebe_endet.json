@@ -1,0 +1,68 @@
+[
+  {
+    "Beschreibung": "Eine neue Funktion bei Netflix, die dem Zuschauer zufällig Inhalte vorschlägt. Mangold sieht darin einen Widerspruch zur Idee des digitalen Zeitalters, in dem der Nutzer die volle Wahlfreiheit hat und dem kuratierten Fernsehen entkommt.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-08-31",
+    "Episode": "Warum Liebe endet"
+  },
+  {
+    "Beschreibung": "Eine allgemeine Angst vor dem Herbst, die über den üblichen Herbstblues hinausgeht. Pauer beobachtet, dass insbesondere Eltern mit Kitakindern, aber auch viele andere Menschen, eine diffuse Angst vor dem kommenden Herbst haben.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2020-08-31",
+    "Episode": "Warum Liebe endet"
+  },
+  {
+    "Beschreibung": "Menschen, die ihr Handy an einer Kordel um die Schulter tragen.  Mangold sieht es als ein neues Phänomen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Nina"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-08-31",
+    "Episode": "Warum Liebe endet"
+  },
+  {
+    "Beschreibung": "Das Wort \"Deep Dive\", was ein tiefes Eintauchen in ein Thema beschreibt, wird nun auch außerhalb des Podcast- und Journalistenjargons verwendet. Pauer sieht es als ein aufkommendes Phänomen in der Alltagssprache.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2020-08-31",
+    "Episode": "Warum Liebe endet"
+  },
+  {
+    "Beschreibung": "Der Zusatz \"White Privileged\" in Twitter-Profilen, neben anderen politischen Selbstbeschreibungen wie \"feminist\", \"queer\" und \"intersectional\". Mangold sieht es als ein neues Phänomen und eine \"perverse Soße\".",
+    "Dafür": [
+      "Nina"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-08-31",
+    "Episode": "Warum Liebe endet"
+  },
+  {
+    "Beschreibung": "\"Selfcare\" als Überbegriff für alles, was einem gut tut und einen reinigt, wie z.B. Weinen, Joggen oder Waldbaden.  Pauer beobachtet, dass dieser Begriff inflationär gebraucht wird.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Nina",
+    "Datum": "2020-08-31",
+    "Episode": "Warum Liebe endet"
+  }
+]

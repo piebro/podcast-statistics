@@ -1,0 +1,68 @@
+[
+  {
+    "Beschreibung": "Eine Meinung, die mit wenig Sachkenntnis, aber dafür mit umso mehr moralischer Selbstgewissheit vorgetragen wird.  Oft provokant und unerwartet, eher negativ konnotiert.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-11-23",
+    "Episode": "Schluss mit lustig"
+  },
+  {
+    "Beschreibung": "Kisten in bürgerlichen Stadtteilen, in denen Dinge zum Verschenken angeboten werden.  Symbolisieren die Verzweiflung des Besitzbürgertums mit der Wegwerfgesellschaft und den Wunsch nach einem bewussteren Umgang mit Gegenständen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-11-23",
+    "Episode": "Schluss mit lustig"
+  },
+  {
+    "Beschreibung": "Cis-Frauen, die sich selbst als schwul bezeichnen und nur mit schwulen Männern Sex haben wollen. Eine neue Form der sexuellen Orientierung und des Begehrens.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-11-23",
+    "Episode": "Schluss mit lustig"
+  },
+  {
+    "Beschreibung": "Ein Begriff aus der Unternehmensberatung, der Punkte bezeichnet, an denen es in einer Organisation oder einem Projekt Schwierigkeiten gibt. Müssen angesprochen werden, um ein Unternehmen oder Projekt voranzubringen.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-11-23",
+    "Episode": "Schluss mit lustig"
+  },
+  {
+    "Beschreibung": "Eine Aussage, die getätigt wird, wenn man trotz (oder gerade wegen) heftiger Kritik von beiden Seiten des politischen Spektrums überzeugt ist, richtig gehandelt zu haben.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-11-23",
+    "Episode": "Schluss mit lustig"
+  },
+  {
+    "Beschreibung": "Anstatt die Weckzeit einzustellen, programmiert man, wann man einschlafen will, damit das Smartphone rechtzeitig vor dem Schlafen gehen Signale sendet und so den Schlafrhythmus reguliert.  Ein Beispiel für Life-Coaching-Trends und neue Smartphone-Funktionen.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-11-23",
+    "Episode": "Schluss mit lustig"
+  }
+]

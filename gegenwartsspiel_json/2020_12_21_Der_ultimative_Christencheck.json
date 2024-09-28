@@ -1,0 +1,68 @@
+[
+  {
+    "Beschreibung": "Lars beschreibt, wie er sein Handy in einem Carsharing-Auto auf die Mittelkonsole gelegt hat und es sich kabellos aufgeladen hat. Er ist begeistert von dieser neuen Technologie, da sie das Leben einfacher macht und von Kabeln befreit.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-12-21",
+    "Episode": "Der ultimative Christencheck"
+  },
+  {
+    "Beschreibung": "Ijoma beschreibt einen „Glühweinrüssel“, der entsteht, wenn viele Pappbecher ineinandergestapelt in überfüllten Mülleimern stecken. Das Phänomen entsteht, weil die Leute draußen vor Restaurants Glühwein trinken, da sie aufgrund der Corona-Maßnahmen nicht ins Restaurant dürfen.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-12-21",
+    "Episode": "Der ultimative Christencheck"
+  },
+  {
+    "Beschreibung": "Lars beschreibt die Praxis, Namen von Autoren oder Publizisten auf Twitter zu verfremden (z.B. durch Ersetzen von Vokalen mit Sternchen oder Einfügen von Slashes). Dies geschieht, um zu verhindern, dass die erwähnte Person den Tweet findet, obwohl über sie gesprochen wird.",
+    "Dafür": [
+      "Ijoma"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-12-21",
+    "Episode": "Der ultimative Christencheck"
+  },
+  {
+    "Beschreibung": "Lars stellt den langen Daunenmantel, der bis zu den Knien reicht, als modisches Phänomen und Standarduniform von Frauen in seinem Stadtteil dar. Er hat sich selbst gerade einen gekauft und ist unsicher, ob der Trend noch aktuell ist.",
+    "Dafür": [],
+    "Dagegen": [
+      "Ijoma"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Lars",
+    "Datum": "2020-12-21",
+    "Episode": "Der ultimative Christencheck"
+  },
+  {
+    "Beschreibung": "Ijoma beschreibt das Phänomen, dass Leute „Einheit“ als Synonym für eine Million Euro oder Dollar benutzen.",
+    "Dafür": [],
+    "Dagegen": [
+      "Lars"
+    ],
+    "Endergebnis": false,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-12-21",
+    "Episode": "Der ultimative Christencheck"
+  },
+  {
+    "Beschreibung": "Ijoma beschreibt den Fall zweier Hörerinnen namens Luzie und Greta, die ihm ein Phänomen vorgeschlagen hatten. Ijoma findet aber, dass die Namen der beiden selbst ein Gegenwartsphänomen sind.",
+    "Dafür": [
+      "Lars"
+    ],
+    "Dagegen": [],
+    "Endergebnis": true,
+    "Vorgeschlagen_von": "Ijoma",
+    "Datum": "2020-12-21",
+    "Episode": "Der ultimative Christencheck"
+  }
+]
