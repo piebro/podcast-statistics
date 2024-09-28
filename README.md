@@ -32,6 +32,9 @@ python3 create_results_csv.py
 
 # create all plots and statistics
 python3 create_plots.py
+
+# summarize all episodes using gemini
+python3 summarize_episodes.py
 ```
 
 ## Prompt for new "Gegenwartsphänomene"
