@@ -34,7 +34,7 @@ python3 create_results_csv.py
 python3 create_plots.py
 ```
 
-## Prompt for new "Gegenwartsphänomenen"
+## Prompt for new "Gegenwartsphänomene"
 
 ```
 # Prompt zur Generierung von Gegenwartsphänomenen
