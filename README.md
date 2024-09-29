@@ -21,6 +21,9 @@ python3 update_download_script.py
 # run the download script
 bash download_all_episodes.sh
 
+# add an google ai studio api key to use gemini
+export GOOGLE_AI_STUDIO_API="your-api-key"
+
 # answer questions about each episode in the "audio" folder using gemini
 python3 answer_questions_from_audio.py
 
